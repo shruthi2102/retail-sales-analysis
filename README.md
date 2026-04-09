@@ -21,3 +21,6 @@ This project analyzes retail sales data using SQL, Python, and Tableau to genera
 
 ## Dashboard
 <img width="1273" height="809" alt="Dashboard" src="https://github.com/user-attachments/assets/d008c026-d9e8-4e41-a93e-5f3629b8b855" />
+
+## Impact
+This analysis helps businesses identify high-performing regions and products, enabling better inventory planning and revenue optimization.
