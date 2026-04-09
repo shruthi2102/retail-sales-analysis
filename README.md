@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis Project
+# Retail Sales Data Analysis 
 
 ## Overview
 This project analyzes retail sales data using SQL, Python, and Tableau to generate business insights.
