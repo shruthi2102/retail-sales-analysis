@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis 
+# Retail Sales Performance Analysis (SQL + Python + Tableau)
 
 ## Overview
 This project analyzes retail sales data using SQL, Python, and Tableau to generate business insights.
